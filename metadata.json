@@ -1,0 +1,9 @@
+{
+  "name": "Sellout Crowds Scoreboard",
+  "description": "Native sports scoreboard and fantasy integration for Sellout Crowds.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
